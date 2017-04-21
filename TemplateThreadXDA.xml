@@ -5,20 +5,20 @@
 [CENTER][IMG]http://i.imgur.com/ujS83GI.png[/IMG]
 [B][COLOR="Black"][URL="http://droidvn.com/"]A ROM brought up by renosang-sang nguyen from DroidVN team (droidvn.com)[/URL][/COLOR][/B]
 
-[B][SIZE="5"][COLOR="Green"]Introducing a HexagonRom nougat for the "Your Model Device"[/COLOR][/SIZE][/B]
+[B][SIZE="5"][COLOR="Green"]Introducing Nougat based HexagonRom for the "Your Model Device"[/COLOR][/SIZE][/B]
 
 [IMG]http://i.imgur.com/8ylI10p.jpg[/IMG]
 [B]About Hexagon Rom[/B]
 [LIST]
-[*][SIZE="6"]Based on Lineage OS with the latest, the greatest features from all the custom rom out there. DroidVNTeam hope can bring a whole new experience to android users.[/SIZE]
+[*][SIZE="6"]Based on Lineage OS with the latest, the greatest features from all the custom roms out there. DroidVNTeam hopes that we can bring a whole new experience to android users.[/SIZE]
 [/LIST]
 [B]ROM Source: [COLOR="Black"][URL="https://github.com/HexagonRom"]https://github.com/HexagonRom[/URL][/COLOR][/B]
 
 
 
 [IMG]http://i.imgur.com/mH1nSBj.jpg[/IMG]
-[CODE]Very changeds for Hexagon
-Design Hexagon
+[CODE]Very changes for Hexagon
+Designed to give the feel Hexagon everywhere
 
 System extensions:
 -App side bar
@@ -121,15 +121,16 @@ Headsup notifications:
 [CODE]Changelog v-2.3
 
 Hexagon Rom
-- Osprey: Add to supported devices offical
-- T00F: Add to supported devices offical
-- ef63: Add to supported devices offical
-- enable otg notification]
+- ham: Added to officially supported devices
+- Osprey: Added to officially supported devices
+- T00F: Added to officially supported devices
+- ef63: Added to officially supported devices
+- enable OTG notification
 - Change url Google plus, Facebook and Telegram group
-- Fix APN device Bacon
+- Fix APN for Device:bacon
 -New UI Settings
-- Change icon Hexagon interface
-- change logo no recent app
+- Change icon of the Hexagon interface
+- change logo of no recent app
 - Fw_base - Proximity speaker [1/2]
 - Resize buton navigation with devices screen hdpi
 - Add busy box
@@ -180,7 +181,7 @@ Hexagon Rom
 
 [IMG]http://i.imgur.com/vKmaYrC.jpg[/IMG]
 [LIST]
-[*][SIZE="5"][COLOR="DeepSkyBlue"][URL="https://t.me/joinchat/AAAAAD7V-ErJ23iipczuFw"]Telegram Group[/URL][/COLOR][/SIZE]
+[*][SIZE="5"][COLOR="DeepSkyBlue"][URL="https://t.me/joinchat/AAAAAD7V-EoQ6SQdwv8fww"]Telegram Group[/URL][/COLOR][/SIZE]
 [*][SIZE="5"][COLOR="RoyalBlue"][URL="https://www.facebook.com/Droidvnteam"]Facebook[/URL][/COLOR][/SIZE]
 [*][SIZE="5"][COLOR="Red"][URL="https://plus.google.com/communities/115506415474530514840"]Communities G+[/URL][/COLOR][/SIZE]
 [*][SIZE="5"][COLOR="Green"][URL="http://www.droidvn.com/forums"]Forum Droidvn[/URL][/COLOR][/SIZE]
